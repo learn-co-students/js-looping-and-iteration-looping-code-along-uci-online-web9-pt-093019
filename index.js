@@ -13,5 +13,5 @@ function countDown(i) {
     }
 }
 
-const names = ["Ada", "Brendan", "Ali"];
-writeCards(names, "birthday");
+// const names = ["Ada", "Brendan", "Ali"];
+// writeCards(names, "birthday");
